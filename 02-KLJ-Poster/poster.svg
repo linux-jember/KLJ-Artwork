@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1200"
+   height="1200"
+   viewBox="0 0 317.49999 317.50001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="poster.svg"
+   inkscape:export-filename="./posterKopdar.png"
+   inkscape:export-xdpi="95"
+   inkscape:export-ydpi="95">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath998">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 0,0 H 317.5 V 317.5 H 0 Z"
+         id="path1000"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="551.00359"
+     inkscape:cy="226.62387"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:pagecheckerboard="true"
+     units="px"
+     inkscape:snap-page="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="699"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1016" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="back"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,20.500017)">
+    <path
+       style="fill:#fef7c0;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0,-20.500017 H 317.5 V 296.99998 H 0 Z"
+       id="path815"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="konten">
+    <image
+       style="stroke-width:10.96503353"
+       sodipodi:absref="/home/arivle/Gambar/kerja/github/KLJ-Artwork/01-KLJ-Logo/KLJ-Logo.png"
+       y="7.9375"
+       x="19.81789"
+       id="image895"
+       xlink:href="file:///home/arivle/Gambar/kerja/github/KLJ-Artwork/01-KLJ-Logo/KLJ-Logo.png"
+       preserveAspectRatio="none"
+       height="27.114708"
+       width="61.447002" />
+    <image
+       sodipodi:absref="/home/arivle/Gambar/kerja/github/KLJ-Artwork/01-KLJ-Logo/image.png"
+       y="28.446852"
+       x="0"
+       id="image975"
+       xlink:href="file:///home/arivle/Gambar/kerja/github/KLJ-Artwork/01-KLJ-Logo/image.png"
+       preserveAspectRatio="none"
+       height="447.22144"
+       width="615.40729"
+       style="stroke-width:0.99391484"
+       clip-path="url(#clipPath998)"
+       transform="matrix(0.55714286,0,0,0.55714286,140.60714,140.60714)" />
+    <path
+       style="fill:#d63141;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 123.43136,74.083334 V 102.9804 h 70.63728 V 74.083334 Z m 4.76413,3.360037 h 1.30061 v 8.049854 h 0.12793 c 0.76767,-1.705919 2.50566,-2.804108 4.87262,-2.804108 3.30523,0 5.58689,2.196353 5.58689,5.789448 v 10.800658 h -1.29027 V 88.531869 c 0,-2.804106 -1.81234,-4.63808 -4.54182,-4.63808 -2.76145,-10e-7 -4.75535,1.908593 -4.75535,4.766009 v 10.619425 h -1.30061 z m 34.65673,0 h 1.30061 v 21.835852 h -1.30061 z m 6.68495,0 h 1.30094 v 21.835852 h -1.30094 z m -17.96535,5.213764 c 3.66773,0 6.80223,3.049392 6.80223,7.911263 v 0.81022 h -12.49573 c 0.0533,4.030236 2.28163,7.03708 6.00267,7.03708 2.66549,0 4.16893,-1.599307 4.77667,-2.814771 l 1.18335,0.479733 c -0.74635,1.652609 -2.72944,3.539707 -5.96002,3.539707 -4.44605,0 -7.29294,-3.571773 -7.29294,-8.454965 0,-4.893858 2.92155,-8.508267 6.98377,-8.508267 z m 30.73857,0 c 4.0409,0 6.99411,3.571764 6.99411,8.486945 0,4.915178 -2.94255,8.476287 -6.99411,8.476287 -4.05155,0 -6.99443,-3.561109 -6.99443,-8.476287 0,-4.925843 2.94288,-8.486945 6.99443,-8.486945 z m -30.73857,1.215332 c -3.10264,0 -5.41628,2.751032 -5.67217,6.322802 h 11.17378 c 0,-3.550446 -2.3883,-6.322802 -5.50161,-6.322802 z m 30.73857,0 c -3.4225,0 -5.70416,3.230718 -5.70416,7.271613 0,4.062222 2.26034,7.271618 5.70416,7.271618 3.44383,0 5.70416,-3.209396 5.70416,-7.271618 0,-4.051558 -2.27099,-7.271613 -5.70416,-7.271613 z"
+       id="path1018"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#d63141;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 100.42423,116.84256 v 41.99455 h 116.65153 v -41.99455 z m 82.72188,4.88296 h 1.89012 v 31.73285 h -1.89012 z m 25.75174,0 h 1.87509 v 31.73285 h -1.82861 v -5.19054 h -0.23238 c -1.13111,3.06791 -3.61029,5.68632 -7.68534,5.68632 -5.74847,0 -9.4825,-5.12869 -9.4825,-12.33363 0,-7.17395 3.78051,-12.31812 9.49799,-12.31812 4.07506,0 6.56972,2.60291 7.66986,5.67081 h 0.1859 z m -57.38389,7.57688 c 5.8724,0 10.16463,5.19065 10.16463,12.33362 0,7.14296 -4.27673,12.31813 -10.16463,12.31813 -5.88791,0 -10.16418,-5.17517 -10.16418,-12.31813 0,-7.15847 4.27627,-12.33362 10.16418,-12.33362 z m 25.55032,0.031 c 0.34088,0 0.66661,-3e-5 0.96102,0.0155 v 1.9056 c -0.24792,-0.0309 -0.57363,-0.093 -1.06947,-0.093 -3.96659,0 -6.83277,2.77369 -6.83277,6.61633 v 15.6805 h -1.89057 v -23.7996 h 1.8441 v 3.71873 h 0.17041 c 1.02264,-2.43265 3.6719,-4.04408 6.81728,-4.04408 z m -70.33722,0.32535 h 1.98353 l 6.1356,21.02598 h 0.17041 l 6.15155,-21.02598 h 1.96758 l 6.13606,21.01049 h 0.15492 l 6.13561,-21.01049 h 1.98352 l -7.12759,23.79963 h -2.10702 l -6.07407,-20.71613 h -0.20141 l -6.07363,20.71612 h -2.10747 z m 44.7869,1.40985 c -4.97375,0 -8.28956,4.69502 -8.28956,10.56743 0,5.90341 3.28482,10.56699 8.28956,10.56699 5.00472,0 8.28954,-4.66358 8.28954,-10.56699 0,-5.88792 -3.30032,-10.56743 -8.28954,-10.56743 z m 49.68306,0 c -4.89626,0 -7.77828,4.55558 -7.77828,10.53646 0,5.98087 2.88202,10.59796 7.77828,10.59796 4.83429,0 7.71632,-4.50862 7.71632,-10.59796 0,-6.07386 -2.88203,-10.53646 -7.71632,-10.53646 z"
+       id="path1020"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text1064-3"
+       y="53.063385"
+       x="90.545036"
+       style="font-style:normal;font-weight:normal;font-size:13.86126614px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d63141;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Inter;-inkscape-font-specification:'Inter Bold';letter-spacing:0px;fill:#d63141;fill-opacity:1;stroke-width:0.26458332"
+         y="53.063385"
+         x="90.545036"
+         id="tspan1062-6"
+         sodipodi:role="line">Kopdar perdana KLJ</tspan></text>
+    <text
+       id="text1064"
+       y="189.63181"
+       x="171.47473"
+       style="font-style:normal;font-weight:normal;font-size:9.82682705px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d63141;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Inter;-inkscape-font-specification:'Inter Bold';letter-spacing:0px;fill:#d63141;fill-opacity:1;stroke-width:0.26458332"
+         y="189.63181"
+         x="171.47473"
+         id="tspan1062"
+         sodipodi:role="line">Ctrl + A Jember</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.50339603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d63141;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="171.64969"
+       y="199.14322"
+       id="text835"><tspan
+         sodipodi:role="line"
+         id="tspan833"
+         x="171.64969"
+         y="199.14322"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Inter;-inkscape-font-specification:'Inter Medium';letter-spacing:0px;fill:#d63141;fill-opacity:1;stroke-width:0.26458332">Jl. Mastrip No.17, Krajan Timur</tspan></text>
+    <text
+       id="text839"
+       y="207.45006"
+       x="171.64969"
+       style="font-style:normal;font-weight:normal;font-size:5.50339603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d63141;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Inter;-inkscape-font-specification:'Inter Medium';letter-spacing:0px;fill:#d63141;fill-opacity:1;stroke-width:0.26458332"
+         y="207.45006"
+         x="171.64969"
+         id="tspan837"
+         sodipodi:role="line">Sumbersari, Kab. Jember</tspan></text>
+    <g
+       id="g881"
+       transform="matrix(0.70894151,0,0,0.70894151,37.239517,70.558434)"
+       style="stroke-width:1.41055357">
+      <text
+         id="text1060"
+         y="173.56953"
+         x="42.79686"
+         style="font-style:normal;font-weight:normal;font-size:15.45556641px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d63141;fill-opacity:1;stroke:none;stroke-width:0.37320897"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Inter;-inkscape-font-specification:'Inter Bold';letter-spacing:2.85148883px;fill:#d63141;fill-opacity:1;stroke-width:0.37320897"
+           y="173.56953"
+           x="42.79686"
+           id="tspan1058"
+           sodipodi:role="line">27.10.2019</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.93909836px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d63141;fill-opacity:1;stroke:none;stroke-width:0.37320897"
+         x="78.178482"
+         y="189.89468"
+         id="text867"><tspan
+           sodipodi:role="line"
+           id="tspan865"
+           x="78.178482"
+           y="189.89468"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Inter;-inkscape-font-specification:'Inter Bold';letter-spacing:2.01821899px;fill:#d63141;fill-opacity:1;stroke-width:0.37320897">13.00 WIB</tspan></text>
+    </g>
+  </g>
+</svg>
